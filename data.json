@@ -35,18 +35,18 @@
         {
             "producto": "bolso de yute y plataforma",
             "unidad": 2,
-            "precio": 70,
-            "descripcion": "37 AL 40",
+            "precio": 110000,
+            "descripcion": "37 AL ",
             "categoria": "accesorios",
             "img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
         },
         {
-            "producto": "bolso de yute y plataforma",
+            "producto": "Proyector Astronauta",
             "unidad": 2,
-            "precio": 70,
-            "descripcion": "37 AL 40",
+            "precio": 110000,
+            "descripcion": "Proyector",
             "categoria": "accesorios",
-            "img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
+            "img_portafolio": "assets/img/portfolio/astronautagrande.jpg"
         }
     ]
 }

@@ -39,6 +39,14 @@
             "descripcion": "37 AL 40",
             "categoria": "accesorios",
             "img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
+        },
+        {
+            "producto": "bolso de yute y plataforma",
+            "unidad": 2,
+            "precio": 70,
+            "descripcion": "37 AL 40",
+            "categoria": "accesorios",
+            "img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
         }
     ]
 }

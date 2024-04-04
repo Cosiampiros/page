@@ -11,7 +11,7 @@
             "producto": "Crispetera cuadrada",
             "precio": 75000,
             "descripcion": "Es una máquina portátil que permite hacer palomitas frescas y sabrosas.",
-            "categoria": "Cocina",
+            "categoria": "cocina",
             "img_portafolio": "assets/img/portfolio/crispetera.jpeg"
         },
         {
@@ -32,7 +32,7 @@
             "producto": "Proyector Astronauta",
             "precio": 110000,
             "descripcion": "Proyector",
-            "categoria": "accesorios",
+            "categoria": "hogar",
             "img_portafolio": "assets/img/portfolio/astronautagrande.jpg"
         }
     ]

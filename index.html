@@ -474,9 +474,8 @@
         div_catalogo_info.className = "portfolio-info";
         
         const h4_producto = document.createElement('h4');        
-        const p_unidad = document.createElement('p');
         const p_precio = document.createElement('p');
-        const p_talla = document.createElement('p');
+        const p_desc = document.createElement('p');
         
         const img = document.createElement('img');          
         img.className = "img-fluid";
@@ -484,14 +483,11 @@
         h4_producto.textContent = data[i].producto;
         div_catalogo_info.appendChild(h4_producto);
 
-        p_unidad.textContent = 'unidad: ' + data[i].unidad;
-        div_catalogo_info.appendChild(p_unidad);
+        p_desc.textContent = 'descripcion: ' + data[i].descripcion;
+        div_catalogo_info.appendChild(p_desc);
 
         p_precio.textContent = 'precio: ' + data[i].precio;
         div_catalogo_info.appendChild(p_precio);
-
-        p_talla.textContent = 'categoria: ' + data[i].categoria;
-        div_catalogo_info.appendChild(p_talla);
 
         img.src = data[i].img_portafolio;
         //img.style.cssText = ''
